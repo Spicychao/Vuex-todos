@@ -22,7 +22,7 @@ export default new Vuex.Store({
     },
     {
       id: 4,
-      name: '打炮',
+      name: '穿女装',
       done: false
     }
     ]
